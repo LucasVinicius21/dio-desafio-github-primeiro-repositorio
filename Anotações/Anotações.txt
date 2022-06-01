@@ -1,0 +1,8 @@
+Códigos de comandos Git Bash:
+git clone : para clonar do git do servidor para maquina
+git status : para acompanhar o status que anda o repositorio
+cd dio-desafio-github-primeiro-repositorio : entrar na minha pasta
+git add . : adicionar um arquivo dentro da minha pasta
+
+
+
