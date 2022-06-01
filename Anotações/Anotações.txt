@@ -3,6 +3,6 @@ git clone : para clonar do git do servidor para maquina
 git status : para acompanhar o status que anda o repositorio
 cd dio-desafio-github-primeiro-repositorio : entrar na minha pasta
 git add . : adicionar um arquivo dentro da minha pasta
-
+git push origin main : para poder atualizar o arquivo no servidor
 
 
